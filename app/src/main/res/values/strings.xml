@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Inges</string>
+    <string name="msg_pass">contraseña</string>
+    <string name="msg_userlogin">Usuario</string>
+    <string name="TextoBtnSolicitar">Solicitar Servicio</string>
+    <string name="TextoBtnLista">Lista de Solicitudes</string>
+    <string name="ListaServicios_Campo">Elige un servicio</string>
+    <string name="Registro_Nombre">Nombre(s)</string>
+    <string name="Registro_Apellido">Apellido(s)</string>
+    <string name="Registro_email">Correo electronico</string>
+    <string name="Registro_Tel">Num telefonico</string>
+    <string name="Registro_constraseña">Contraseña</string>
+
+    <string-array name="listaServicios">
+        <item>Reparacion de equipo</item>
+        <item>Mantenimiento de equipo</item>
+        <item>Instalacion de software</item>
+        <item>Instalacion de Redes</item>
+        <item>Instalacion de office</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="MultiLineSolicitudes">Describe el problema brevemente</string>
+    <string name="TextSolicitudesDireccion">Direccion</string>
+    <string name="Btn_Solicitud">Solicitar</string>
+
+</resources>
